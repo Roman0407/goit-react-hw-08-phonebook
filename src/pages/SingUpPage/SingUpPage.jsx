@@ -17,7 +17,7 @@ import {
     Link,
 } from '@chakra-ui/react';
 import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
-import Image from '../../image/dark-macbook.png';
+import Image from '../../image/iphone.png';
 
 const SignupView = () => {
     const [showPassword, setShowPassword] = useState(false);

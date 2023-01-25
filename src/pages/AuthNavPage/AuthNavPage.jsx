@@ -7,7 +7,7 @@ import {
     VStack,
     useBreakpointValue,
 } from '@chakra-ui/react';
-import Image from '../../image/dark-macbook.png';
+import Image from '../../image/Laptop.png';
 
 const WithBackgroundImage = () => {
     return (

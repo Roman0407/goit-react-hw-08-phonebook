@@ -14,7 +14,7 @@ import {
 } from '@chakra-ui/react';
 import { toast } from 'react-toastify';
 
-import Image from '../../image/dark-macbook.png';
+import Image from '../../image/iphone.png';
 
 const LoginView = () => {
     const [email, setEmail] = useState('');
